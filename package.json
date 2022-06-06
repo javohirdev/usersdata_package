@@ -1,0 +1,28 @@
+{
+  "name": "usersdata-uzb",
+  "version": "1.0.1",
+  "description": "This is users data package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javohirdev/usersdata_package.git"
+  },
+  "keywords": [
+    "web",
+    "javascript",
+    "users",
+    "data"
+  ],
+  "author": "Javohir Hakimov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javohirdev/usersdata_package/issues"
+  },
+  "homepage": "https://github.com/javohirdev/usersdata_package#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
